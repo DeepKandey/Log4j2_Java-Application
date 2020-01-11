@@ -1,0 +1,15 @@
+2020-01-11 14:15:16 DEBUG HelloExample:15 - This is debug : mkyong
+2020-01-11 14:15:16 INFO  HelloExample:19 - This is info : mkyong
+2020-01-11 14:15:16 WARN  HelloExample:22 - This is warn : mkyong
+2020-01-11 14:15:16 ERROR HelloExample:23 - This is error : mkyong
+2020-01-11 14:15:16 FATAL HelloExample:24 - This is fatal : mkyong
+2020-01-11 14:17:38 DEBUG HelloExample:15 - This is debug : mkyong
+2020-01-11 14:17:38 INFO  HelloExample:19 - This is info : mkyong
+2020-01-11 14:17:38 WARN  HelloExample:22 - This is warn : mkyong
+2020-01-11 14:17:38 ERROR HelloExample:23 - This is error : mkyong
+2020-01-11 14:17:38 FATAL HelloExample:24 - This is fatal : mkyong
+2020-01-11 14:19:42 DEBUG HelloExample:15 - This is debug : mkyong
+2020-01-11 14:19:42 INFO  HelloExample:19 - This is info : mkyong
+2020-01-11 14:19:42 WARN  HelloExample:22 - This is warn : mkyong
+2020-01-11 14:19:42 ERROR HelloExample:23 - This is error : mkyong
+2020-01-11 14:19:42 FATAL HelloExample:24 - This is fatal : mkyong
